@@ -69,5 +69,3 @@ If you already have gitoxide installed and want to reinstall or uninstall it, fo
 
 - This script assumes you have administrative privileges to install packages on your system.
 - On Windows, ensure you are running the script within a Unix-like environment (e.g., WSL, Git Bash).
-
-```
