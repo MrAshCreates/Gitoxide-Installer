@@ -15,7 +15,7 @@ Before running this script, ensure you have the following installed:
 1. Clone the repository or download the `install_gitoxide.sh` file:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/MrAshCreates/Gitoxide-Installer.git
    cd your-repo
    ```
 
